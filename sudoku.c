@@ -204,7 +204,7 @@ void input(grille g)
 
 
 
-// JOUEUR ORDINATEUR
+// JOUEUR ORDINATEUR (not done yet)
 
 int determin_bloc(int x,int y)
 {
